@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.qw1nt.configs",
+  "version": "0.0.1",
+  "displayName": "Configs",
+  "unity": "2021.3",
+  "author": {
+    "name": "Qw1nt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qw1nt/unity.configs"
+  }
+}
